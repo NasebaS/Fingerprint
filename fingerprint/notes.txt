@@ -1,0 +1,9 @@
+#e00606
+#38E54D
+
+
+  // setShowModal(true);
+              // setTimeout(() => {
+              //   setShowModal(true); 
+              //   setShowModal(false)
+              // }, 5000);
